@@ -9,7 +9,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background: url('/bg.png') no-repeat center center/cover;
+    background: url('bg.png') no-repeat center center/cover;
     height: 100vh;
     color: #fff;
 }
@@ -63,7 +63,7 @@ ul li a:hover {
     text-align: center;
     height: 60vh;
     color: white;
-    background: url(' /bg.png') no-repeat center center/cover;
+    background: url(' bg.png') no-repeat center center/cover;
 }
 
 .hero p {
